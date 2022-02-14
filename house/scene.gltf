@@ -3,50 +3,50 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 1370,
+      "count": 2859,
       "max": [
-        1.8472540378570557,
-        2.157029390335083,
-        3.7593634128570557
+        5.5429019927978516,
+        4.1186699867248535,
+        11.104785919189453
       ],
       "min": [
-        -3.0545971393585205,
-        -2.2221570014953613,
-        -8.7749652862548828
+        -3.8314108848571777,
+        -3.9592039585113525,
+        -0.010653999634087086
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 16440,
+      "byteOffset": 34308,
       "componentType": 5126,
-      "count": 1370,
+      "count": 2859,
       "max": [
-        0.99978536367416382,
-        0.99990177154541016,
-        0.99413150548934937
+        1,
+        1,
+        1
       ],
       "min": [
-        -0.99833858013153076,
-        -0.99990177154541016,
-        -0.99993777275085449
+        -1,
+        -1,
+        -1
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 1370,
+      "count": 2859,
       "max": [
-        0.99993652105331421,
-        0.99990302324295044,
-        0.99953418970108032,
+        1,
+        1,
+        1,
         1
       ],
       "min": [
-        -0.99736905097961426,
-        -0.99997067451477051,
-        -0.99893909692764282,
+        -1,
+        -1,
+        -1,
         -1
       ],
       "type": "VEC4"
@@ -54,23 +54,23 @@
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 1370,
+      "count": 2859,
       "max": [
-        0.99238026142120361,
-        0.99730181694030762
+        0.99782299995422363,
+        0.993569016456604
       ],
       "min": [
-        0.016898885369300842,
-        0.0092736333608627319
+        0.0036369999870657921,
+        0.006543000228703022
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 2046,
+      "count": 4512,
       "max": [
-        1369
+        2858
       ],
       "min": [
         0
@@ -80,42 +80,42 @@
   ],
   "asset": {
     "extras": {
-      "author": "Hanesto (https://sketchfab.com/Hanesto)",
+      "author": "Young_Wizard (https://sketchfab.com/illya2878)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/models/bcdc46c8fa2d4b428951e2108a4e7516",
-      "title": "Pedestrian [002] [Medieval Assets]"
+      "source": "https://sketchfab.com/3d-models/medieval-house-4ec56df1c24d422ea85d1cfbf21bbe8c",
+      "title": "Medieval house"
     },
-    "generator": "Sketchfab-3.18.7",
+    "generator": "Sketchfab-4.48.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 8184,
+      "byteLength": 18048,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 10960,
-      "byteOffset": 8184,
+      "byteLength": 22872,
+      "byteOffset": 18048,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 32880,
-      "byteOffset": 19144,
+      "byteLength": 68616,
+      "byteOffset": 40920,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 21920,
-      "byteOffset": 52024,
+      "byteLength": 45744,
+      "byteOffset": 109536,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -123,43 +123,56 @@
   ],
   "buffers": [
     {
-      "byteLength": 73944,
+      "byteLength": 155280,
       "uri": "scene.bin"
     }
   ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
   "images": [
     {
-      "uri": "textures/Man2_baseColor.png"
+      "uri": "textures/Material_diffuse.png"
+    },
+    {
+      "uri": "textures/Material_specularGlossiness.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "Man2",
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1,
-          1,
-          1,
-          1
-        ],
-        "baseColorTexture": {
-          "index": 0,
-          "texCoord": 0
-        },
-        "metallicFactor": 0,
-        "roughnessFactor": 0.95770514949999996
-      }
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            1,
+            1,
+            1
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Material"
     }
   ],
   "meshes": [
     {
-      "name": "wizzard_Man2_0",
       "primitives": [
         {
           "attributes": {
@@ -198,59 +211,11 @@
       "children": [
         3
       ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        -1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "name": "ab997f9996bc469e81e88f601114da0c.fbx"
-    },
-    {
-      "children": [
-        4
-      ],
-      "name": "RootNode"
-    },
-    {
-      "children": [
-        5
-      ],
-      "matrix": [
-        -14.404838959374841,
-        -1.42277475202702,
-        -0.10705214934103419,
-        0,
-        -0.10648140322973487,
-        -0.011052400464377152,
-        14.47493162501711,
-        0,
-        -1.4228175803511547,
-        14.405232502553703,
-        0.0005325611273757126,
-        0,
-        -330.9871826171875,
-        126.07333374023438,
-        348.4683837890625,
-        1
-      ],
-      "name": "wizzard"
+      "name": "9bb207bfab844b44b91d58587a5b1d33.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": "wizzard_Man2_0"
+      "name": ""
     }
   ],
   "samplers": [
@@ -274,6 +239,10 @@
     {
       "sampler": 0,
       "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
     }
   ]
 }
