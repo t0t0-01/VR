@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paris Police Station
+* source:	https://sketchfab.com/3d-models/paris-police-station-6314692176a44290b1ba432f9ea4840f
+* author:	aitortilla01 (https://sketchfab.com/aitortilla01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paris Police Station" (https://sketchfab.com/3d-models/paris-police-station-6314692176a44290b1ba432f9ea4840f) by aitortilla01 (https://sketchfab.com/aitortilla01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
