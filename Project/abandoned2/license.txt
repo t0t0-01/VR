@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abandoned house lowpoly model.
+* source:	https://sketchfab.com/3d-models/abandoned-house-lowpoly-model-af5dceb1760546c09874b22de5b91254
+* author:	Dmitry Blagodaryov (https://sketchfab.com/blagodaryov.art)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abandoned house lowpoly model." (https://sketchfab.com/3d-models/abandoned-house-lowpoly-model-af5dceb1760546c09874b22de5b91254) by Dmitry Blagodaryov (https://sketchfab.com/blagodaryov.art) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
