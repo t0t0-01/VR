@@ -1,0 +1,11 @@
+Model Information:
+* title:	abandoned house (lowpole)
+* source:	https://sketchfab.com/3d-models/abandoned-house-lowpole-3c4f21ab701d48d3bb4271e8b8c947b9
+* author:	hasp (https://sketchfab.com/hospis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "abandoned house (lowpole)" (https://sketchfab.com/3d-models/abandoned-house-lowpole-3c4f21ab701d48d3bb4271e8b8c947b9) by hasp (https://sketchfab.com/hospis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
