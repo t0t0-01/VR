@@ -1,0 +1,11 @@
+Model Information:
+* title:	Google Booth
+* source:	https://sketchfab.com/3d-models/google-booth-88964d279e7840e1a6ff3226008985d6
+* author:	faizn0rdin (https://sketchfab.com/faizn0rdin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Google Booth" (https://sketchfab.com/3d-models/google-booth-88964d279e7840e1a6ff3226008985d6) by faizn0rdin (https://sketchfab.com/faizn0rdin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
