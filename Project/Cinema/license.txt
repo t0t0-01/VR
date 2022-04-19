@@ -1,0 +1,11 @@
+Model Information:
+* title:	cinema building
+* source:	https://sketchfab.com/3d-models/cinema-building-d446658d7bb645a2a80afe11f35a947d
+* author:	hellotaia (https://sketchfab.com/hellotaia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cinema building" (https://sketchfab.com/3d-models/cinema-building-d446658d7bb645a2a80afe11f35a947d) by hellotaia (https://sketchfab.com/hellotaia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
